@@ -50,4 +50,41 @@ For research, I welcome connections around NLP, low-resource language technologi
 
 ---
 
-Public code samples and documented project case studies will be added as repositories become available.
+## Featured portfolio projects
+
+These are AI-assisted learning/portfolio projects, not client deliveries. Each repository documents its actual verification status and limitations.
+
+### Bookly · Flutter service booking
+
+[Explore repository →](https://github.com/2025f-ms-ai-005-cell/flutter-service-booking)
+
+Service selection, appointment validation, duplicate-slot prevention and cancellation. Flutter build/device execution remains unverified.
+
+![Bookly designed UI preview](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/flutter-service-booking/main/preview.jpg)
+
+### PocketLedger · Native Android expense tracker
+
+[Explore repository →](https://github.com/2025f-ms-ai-005-cell/android-expense-tracker)
+
+Kotlin, local JSON storage, validated PKR amounts and monthly totals. Source compilation and 3 domain tests passed; no verified APK/device run.
+
+![PocketLedger designed UI preview](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/android-expense-tracker/main/preview.jpg)
+
+### SortSafe · Python automation
+
+[Explore repository →](https://github.com/2025f-ms-ai-005-cell/python-file-organizer)
+
+Preview-first, copy-only file organization with collision protection and SHA-256 verification. Six automated tests passed.
+
+![SortSafe CLI workflow illustration](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/python-file-organizer/main/preview.jpg)
+
+### Urdu Intent · Python NLP baseline
+
+[Explore repository →](https://github.com/2025f-ms-ai-005-cell/urdu-intent-baseline)
+
+Unicode normalization, Naive Bayes, reproducible holdout evaluation and unknown-input handling. Five tests passed. Uses tiny synthetic data, not a research benchmark or Transformer model.
+
+![Urdu Intent CLI workflow illustration](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/urdu-intent-baseline/main/preview.jpg)
+
+**Visual transparency:** mobile images are source-based designed UI reconstructions, not device screenshots. Python images illustrate command-line workflows, not graphical applications.
+
