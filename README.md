@@ -1,3 +1,5 @@
+![Sadia Liaqat — Android, Flutter and AI/NLP](profile-banner.png)
+
 <h1 align="center">Sadia Liaqat</h1>
 <p align="center"><strong>Android & Flutter Developer · AI & NLP Researcher</strong></p>
 <p align="center">Building practical mobile experiences. Exploring intelligent systems.</p>
