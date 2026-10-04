@@ -9,8 +9,8 @@
 
 I’m a mobile application developer based in Pakistan and an **MS Artificial Intelligence student at The University of Faisalabad**. My work combines Android and Flutter development with AI/NLP research, particularly low-resource Urdu language technologies.
 
-- Mobile Application Developer at **DS Technologies**.
-- Freelance Android Developer with **DigitalByte Technologies**.
+- Focused on **native Android and Flutter development**, including UI implementation, API integration and debugging.
+- Currently developing portfolio prototypes while continuing my MS AI research.
 - Open to **paid remote Android/Flutter projects** and AI/NLP research collaboration.
 - Exploring **computer vision and autonomous robots** as a future Robotics PhD direction.
 
