@@ -60,7 +60,7 @@ These are AI-assisted learning/portfolio projects, not client deliveries. Each r
 
 Service selection, appointment validation, duplicate-slot prevention and cancellation. Flutter build/device execution remains unverified.
 
-![Bookly designed UI preview](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/flutter-service-booking/main/preview.jpg)
+![Bookly designed UI preview](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/flutter-service-booking/main/preview-v2.png)
 
 ### PocketLedger · Native Android expense tracker
 
@@ -68,7 +68,7 @@ Service selection, appointment validation, duplicate-slot prevention and cancell
 
 Kotlin, local JSON storage, validated PKR amounts and monthly totals. Source compilation and 3 domain tests passed; no verified APK/device run.
 
-![PocketLedger designed UI preview](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/android-expense-tracker/main/preview.jpg)
+![PocketLedger designed UI preview](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/android-expense-tracker/main/preview-v2.png)
 
 ### SortSafe · Python automation
 
@@ -76,7 +76,7 @@ Kotlin, local JSON storage, validated PKR amounts and monthly totals. Source com
 
 Preview-first, copy-only file organization with collision protection and SHA-256 verification. Six automated tests passed.
 
-![SortSafe CLI workflow illustration](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/python-file-organizer/main/preview.jpg)
+![SortSafe CLI workflow illustration](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/python-file-organizer/main/preview-v2.png)
 
 ### Urdu Intent · Python NLP baseline
 
@@ -84,7 +84,7 @@ Preview-first, copy-only file organization with collision protection and SHA-256
 
 Unicode normalization, Naive Bayes, reproducible holdout evaluation and unknown-input handling. Five tests passed. Uses tiny synthetic data, not a research benchmark or Transformer model.
 
-![Urdu Intent CLI workflow illustration](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/urdu-intent-baseline/main/preview.jpg)
+![Urdu Intent CLI workflow illustration](https://raw.githubusercontent.com/2025f-ms-ai-005-cell/urdu-intent-baseline/main/preview-v2.png)
 
 **Visual transparency:** mobile images are source-based designed UI reconstructions, not device screenshots. Python images illustrate command-line workflows, not graphical applications.
 
