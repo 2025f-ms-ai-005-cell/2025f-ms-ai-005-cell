@@ -16,6 +16,10 @@ I’m a mobile application developer based in Pakistan and an **MS Artificial In
 - Open to **paid remote Android/Flutter projects** and AI/NLP research collaboration.
 - Exploring **computer vision and autonomous robots** as a future Robotics PhD direction.
 
+### Building toward robot perception
+
+My new Python portfolio work will focus on **computer vision**: image processing, camera calibration, object detection, segmentation, tracking and reproducible perception evaluation. These are learning and portfolio directions; published projects will document their actual implementation and verification status. My existing Urdu NLP work remains part of my research background.
+
 ## Mobile development
 
 | Focus | Technologies & support |
