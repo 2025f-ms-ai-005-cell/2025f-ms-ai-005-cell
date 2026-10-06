@@ -94,3 +94,18 @@ Unicode normalization, Naive Bayes, reproducible holdout evaluation and unknown-
 
 **Visual transparency:** mobile images are source-based designed UI reconstructions, not device screenshots. Python images illustrate command-line workflows, not graphical applications.
 
+
+
+## Computer vision project index
+
+Original AI-assisted learning demos with synthetic fixtures; tests are not real-world robotics validation.
+
+| Project | Workflow | Recorded local tests |
+| --- | --- | --- |
+| [Vision Workbench](https://github.com/2025f-ms-ai-005-cell/python-vision-workbench) | Preprocessing and comparison reports | 7 |
+| [Vision Dataset Audit](https://github.com/2025f-ms-ai-005-cell/python-vision-dataset-audit) | Validation, exact duplicates, split overlap | 9 |
+| [Image Change Inspector](https://github.com/2025f-ms-ai-005-cell/python-image-change-inspector) | Aligned-image difference masks | 6 |
+| [Camera Projection Lab](https://github.com/2025f-ms-ai-005-cell/python-camera-projection-lab) | Camera-frame projection and depth-assisted inverse | 10 |
+| [Stereo Depth Lab](https://github.com/2025f-ms-ai-005-cell/python-stereo-depth-lab) | Supplied disparity and bounded tolerance | 8 |
+
+Each repository documents setup, visuals and limitations. These demos do not implement an autonomous robot or establish production readiness.
